@@ -1,0 +1,53 @@
+using System;
+
+namespace StringOperations
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            String fName = "abcdefgh";
+            String lName = "ijklmn";
+
+            //Length of the string
+            Console.WriteLine("Length of the string is : " + fName.Length);
+
+            //Upper case string
+            Console.WriteLine("Upper case of string is : " + fName.ToUpper());
+            //Lower csae string
+            Console.WriteLine("Lower case of string is: " + lName.ToLower());
+
+            //Concatenation of string
+            String name = fName + lName;
+            Console.WriteLine("Concatenation of string is : "+name);
+            //Another method to concatenation of string
+            String name1 = String.Concat(fName, lName);
+            Console.WriteLine("Concatenation of string is: " + name1);
+
+            //Interpolation of string
+            String name2 = $"My full name is: {fName} {lName}";
+            Console.WriteLine(name2);
+
+            //Accessing string from perticular position 
+            Console.WriteLine(name2[4]);
+
+            Console.WriteLine(name2.IndexOf("d"));
+
+            
+        }
+    }
+}
+
+
+/*
+
+Length of the string is : 8
+Upper case of string is : ABCDEFGH
+Lower case of string is: ijklmn
+Concatenation of string is : abcdefghijklmn
+Concatenation of string is: abcdefghijklmn
+My full name is: abcdefgh ijklmn
+u
+20
+
+*/
