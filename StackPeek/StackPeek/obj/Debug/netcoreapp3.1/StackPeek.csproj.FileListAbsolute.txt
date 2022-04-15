@@ -1,0 +1,13 @@
+C:\Users\shree\source\repos\CollectionClasses\StackPeek\StackPeek\bin\Debug\netcoreapp3.1\StackPeek.exe
+C:\Users\shree\source\repos\CollectionClasses\StackPeek\StackPeek\bin\Debug\netcoreapp3.1\StackPeek.deps.json
+C:\Users\shree\source\repos\CollectionClasses\StackPeek\StackPeek\bin\Debug\netcoreapp3.1\StackPeek.runtimeconfig.json
+C:\Users\shree\source\repos\CollectionClasses\StackPeek\StackPeek\bin\Debug\netcoreapp3.1\StackPeek.runtimeconfig.dev.json
+C:\Users\shree\source\repos\CollectionClasses\StackPeek\StackPeek\bin\Debug\netcoreapp3.1\StackPeek.dll
+C:\Users\shree\source\repos\CollectionClasses\StackPeek\StackPeek\bin\Debug\netcoreapp3.1\StackPeek.pdb
+C:\Users\shree\source\repos\CollectionClasses\StackPeek\StackPeek\obj\Debug\netcoreapp3.1\StackPeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shree\source\repos\CollectionClasses\StackPeek\StackPeek\obj\Debug\netcoreapp3.1\StackPeek.AssemblyInfoInputs.cache
+C:\Users\shree\source\repos\CollectionClasses\StackPeek\StackPeek\obj\Debug\netcoreapp3.1\StackPeek.AssemblyInfo.cs
+C:\Users\shree\source\repos\CollectionClasses\StackPeek\StackPeek\obj\Debug\netcoreapp3.1\StackPeek.csproj.CoreCompileInputs.cache
+C:\Users\shree\source\repos\CollectionClasses\StackPeek\StackPeek\obj\Debug\netcoreapp3.1\StackPeek.dll
+C:\Users\shree\source\repos\CollectionClasses\StackPeek\StackPeek\obj\Debug\netcoreapp3.1\StackPeek.pdb
+C:\Users\shree\source\repos\CollectionClasses\StackPeek\StackPeek\obj\Debug\netcoreapp3.1\StackPeek.genruntimeconfig.cache
