@@ -1,0 +1,13 @@
+C:\Users\shree\source\repos\CollectionClasses\ArrayListIterator\ArrayListIterator\bin\Debug\netcoreapp3.1\ArrayListIterator.exe
+C:\Users\shree\source\repos\CollectionClasses\ArrayListIterator\ArrayListIterator\bin\Debug\netcoreapp3.1\ArrayListIterator.deps.json
+C:\Users\shree\source\repos\CollectionClasses\ArrayListIterator\ArrayListIterator\bin\Debug\netcoreapp3.1\ArrayListIterator.runtimeconfig.json
+C:\Users\shree\source\repos\CollectionClasses\ArrayListIterator\ArrayListIterator\bin\Debug\netcoreapp3.1\ArrayListIterator.runtimeconfig.dev.json
+C:\Users\shree\source\repos\CollectionClasses\ArrayListIterator\ArrayListIterator\bin\Debug\netcoreapp3.1\ArrayListIterator.dll
+C:\Users\shree\source\repos\CollectionClasses\ArrayListIterator\ArrayListIterator\bin\Debug\netcoreapp3.1\ArrayListIterator.pdb
+C:\Users\shree\source\repos\CollectionClasses\ArrayListIterator\ArrayListIterator\obj\Debug\netcoreapp3.1\ArrayListIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shree\source\repos\CollectionClasses\ArrayListIterator\ArrayListIterator\obj\Debug\netcoreapp3.1\ArrayListIterator.AssemblyInfoInputs.cache
+C:\Users\shree\source\repos\CollectionClasses\ArrayListIterator\ArrayListIterator\obj\Debug\netcoreapp3.1\ArrayListIterator.AssemblyInfo.cs
+C:\Users\shree\source\repos\CollectionClasses\ArrayListIterator\ArrayListIterator\obj\Debug\netcoreapp3.1\ArrayListIterator.csproj.CoreCompileInputs.cache
+C:\Users\shree\source\repos\CollectionClasses\ArrayListIterator\ArrayListIterator\obj\Debug\netcoreapp3.1\ArrayListIterator.dll
+C:\Users\shree\source\repos\CollectionClasses\ArrayListIterator\ArrayListIterator\obj\Debug\netcoreapp3.1\ArrayListIterator.pdb
+C:\Users\shree\source\repos\CollectionClasses\ArrayListIterator\ArrayListIterator\obj\Debug\netcoreapp3.1\ArrayListIterator.genruntimeconfig.cache
