@@ -1,0 +1,59 @@
+using System;
+
+namespace Keywords
+{
+    class Program
+    {
+        /*
+        //ref keyword
+        static void Enroll(ref student student)
+        {
+            student.Enrolled = true;
+            student = new student();
+            student.Enrolled = false;
+        }
+        */
+
+        /*
+        //out keyword
+        static void Enroll(out student student)
+        {
+            student = new student();
+            student.Enrolled = false;
+        }
+        */
+
+        //in keyword
+        static void Enroll(in student student)
+        {
+            student.Enrolled = true;
+        }
+
+        static void Main()
+        {
+            //ref keyword
+            var student = new student
+            {
+                name = "arati",
+                Enrolled = false
+            };
+
+            //Enroll(ref student);
+
+            /*
+            //out keyword
+            student student;
+            Enroll(out student);
+            */
+
+            Enroll(student);
+        }
+    }
+
+    //out keyword
+    public class student
+    {
+        public string name { get; set; }
+        public bool Enrolled { get; set; }
+    }
+}
