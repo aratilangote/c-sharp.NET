@@ -1,0 +1,26 @@
+using System;
+
+namespace PrimeNum
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int num, i, m = 0, flag = 0;
+            Console.Write("Enter the Number to check Prime: ");
+            num = int.Parse(Console.ReadLine());
+            m = num / 2;
+            for (i = 2; i <= m; i++)
+            {
+                if (num % i == 0)
+                {
+                    Console.Write("Number is not Prime.");
+                    flag = 1;
+                    break;
+                }
+            }
+            if (flag == 0)
+                Console.Write("Number is Prime.");
+        }
+    }
+}
