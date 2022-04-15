@@ -1,0 +1,120 @@
+using System;
+
+namespace MatrixAddition
+{
+    class matrixOperatiom
+    {
+        int[,] a;
+        int[,] b;
+        int[,] c;
+
+        public int row1, row2, col1, col2;
+        public void readMat()
+        {
+            Console.WriteLine("\n Size of matrix1: ");
+
+            Console.WriteLine("Enter number of rows for Matrix1: ");
+            row1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("\nEnter number of columns for matrix1: ");
+            col1 = Convert.ToInt32(Console.ReadLine());
+
+            a = new int[row1, col1];
+
+            Console.WriteLine("\nSize of matrix2: ");
+            Console.WriteLine("Enter number of rows for matrix2: ");
+            row2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("\nEnter number of columns for matrix2: ");
+            col2 = Convert.ToInt32(Console.ReadLine());
+            b = new int[row2, col2];
+
+            if (col1 != row2)
+            {
+                Console.WriteLine("Columns of A & Rows of B matrix are not equal.");
+                Console.ReadKey();
+                Environment.Exit(0);
+            }
+            else
+            {
+                Console.WriteLine("\nEnter the elements of matrix1: ");
+                for (int i = 0; i < row1; i++)
+                {
+                    for (int j = 0; j < col1; j++)
+                    {
+                        a[i, j] = Convert.ToInt32(Console.ReadLine());
+                    }
+                }
+                Console.WriteLine("\nEnter elements of matrix2: ");
+                for (int i = 0; i < row2; i++)
+                {
+                    for (int j = 0; j < col2; j++)
+                    {
+                        b[i, j] = Convert.ToInt32(Console.ReadLine());
+                    }
+                }
+            }
+        }
+
+        public void printMatrix()
+        {
+            Console.WriteLine("\nMatrix1: ");
+            for (int i = 0; i < row1; i++)
+            {
+                for (int j = 0; j < col1; j++)
+                {
+                    Console.Write("\t" + a[i, j]);
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("\nMatrix2: ");
+            for (int i = 0; i < row2; i++)
+            {
+                for (int j = 0; j < col2; j++)
+                {
+                    Console.Write("\t" + b[i, j]);
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("\nResultant matrix after addition: ");
+            for (int i = 0; i < row1; i++)
+            {
+                for (int j = 0; j < col2; j++)
+                {
+                    Console.Write("\t" + c[i, j]);
+                }
+                Console.WriteLine();
+            }
+            Console.ReadLine();
+        }
+
+        public void AdditionMatrix()
+        {
+            c = new int[row1, col2];
+            for (int i = 0; i < row1; i++)
+            {
+                for (int j = 0; j < col2; j++)
+                {
+                    c[i, j] = 0;
+                    for (int k = 0; k < col1; k++)
+                    {
+                        c[i, j] = c[i, j] + a[i, k] + b[k, j];
+                    }
+                }
+            }
+        }
+
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            matrixOperatiom m = new matrixOperatiom();
+            m.readMat();
+            m.AdditionMatrix();
+            m.printMatrix();
+        }
+    }
+}
