@@ -1,0 +1,35 @@
+using System;
+
+namespace FunctionOverloading
+{
+    public class cal
+    {
+
+        //by changing no of arguments 
+        public static int add(int a, int b)
+        {
+            return a + b;
+        }
+
+        //by chnageing data type of arguments
+        public static float add(float a, float b, float c)
+        {
+            return a + b + c;
+        }
+        public static int add(int a, int b, int c, int d, int e)
+        {
+            return a + b + c + d + e;
+        }
+
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Function overloading example: ");
+            Console.WriteLine(cal.add(12, 24));
+            Console.WriteLine(cal.add(12.3f, 24.4f, 36.25f));
+            Console.WriteLine(cal.add(10, 20, 30, 40, 50));
+        }
+    }
+}
