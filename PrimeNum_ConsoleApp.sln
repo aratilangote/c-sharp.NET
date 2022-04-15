@@ -24,3 +24,11 @@ namespace PrimeNum
         }
     }
 }
+
+
+/*
+
+Enter the Number to check Prime: 45
+Number is not Prime.
+
+*/
