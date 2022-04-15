@@ -1,0 +1,21 @@
+using System;
+
+namespace FactorialNum
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i, num, fact = 1;
+
+            Console.WriteLine("Enter number: ");
+            num = int.Parse(Console.ReadLine());
+
+            for (i = 1; i <= num; i++)
+            {
+                fact = fact * i;
+            }
+            Console.Write("Factorial of " + num + " is: " + fact);
+        }
+    }
+}
