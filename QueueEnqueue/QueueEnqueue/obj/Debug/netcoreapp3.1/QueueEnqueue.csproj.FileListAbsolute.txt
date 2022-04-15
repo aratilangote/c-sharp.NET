@@ -1,0 +1,13 @@
+C:\Users\shree\source\repos\CollectionClasses\QueueEnqueue\QueueEnqueue\bin\Debug\netcoreapp3.1\QueueEnqueue.exe
+C:\Users\shree\source\repos\CollectionClasses\QueueEnqueue\QueueEnqueue\bin\Debug\netcoreapp3.1\QueueEnqueue.deps.json
+C:\Users\shree\source\repos\CollectionClasses\QueueEnqueue\QueueEnqueue\bin\Debug\netcoreapp3.1\QueueEnqueue.runtimeconfig.json
+C:\Users\shree\source\repos\CollectionClasses\QueueEnqueue\QueueEnqueue\bin\Debug\netcoreapp3.1\QueueEnqueue.runtimeconfig.dev.json
+C:\Users\shree\source\repos\CollectionClasses\QueueEnqueue\QueueEnqueue\bin\Debug\netcoreapp3.1\QueueEnqueue.dll
+C:\Users\shree\source\repos\CollectionClasses\QueueEnqueue\QueueEnqueue\bin\Debug\netcoreapp3.1\QueueEnqueue.pdb
+C:\Users\shree\source\repos\CollectionClasses\QueueEnqueue\QueueEnqueue\obj\Debug\netcoreapp3.1\QueueEnqueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shree\source\repos\CollectionClasses\QueueEnqueue\QueueEnqueue\obj\Debug\netcoreapp3.1\QueueEnqueue.AssemblyInfoInputs.cache
+C:\Users\shree\source\repos\CollectionClasses\QueueEnqueue\QueueEnqueue\obj\Debug\netcoreapp3.1\QueueEnqueue.AssemblyInfo.cs
+C:\Users\shree\source\repos\CollectionClasses\QueueEnqueue\QueueEnqueue\obj\Debug\netcoreapp3.1\QueueEnqueue.csproj.CoreCompileInputs.cache
+C:\Users\shree\source\repos\CollectionClasses\QueueEnqueue\QueueEnqueue\obj\Debug\netcoreapp3.1\QueueEnqueue.dll
+C:\Users\shree\source\repos\CollectionClasses\QueueEnqueue\QueueEnqueue\obj\Debug\netcoreapp3.1\QueueEnqueue.pdb
+C:\Users\shree\source\repos\CollectionClasses\QueueEnqueue\QueueEnqueue\obj\Debug\netcoreapp3.1\QueueEnqueue.genruntimeconfig.cache
