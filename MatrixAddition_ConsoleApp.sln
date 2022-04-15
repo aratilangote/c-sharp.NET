@@ -118,3 +118,44 @@ namespace MatrixAddition
         }
     }
 }
+
+
+/*
+ Size of matrix1:
+Enter number of rows for Matrix1:
+2
+
+Enter number of columns for matrix1:
+2
+
+Size of matrix2:
+Enter number of rows for matrix2:
+2
+
+Enter number of columns for matrix2:
+2
+
+Enter the elements of matrix1:
+12
+15
+10
+4
+
+Enter elements of matrix2:
+5
+15
+24
+8
+
+Matrix1:
+        12      15
+        10      4
+
+Matrix2:
+        5       15
+        24      8
+
+Resultant matrix after addition:
+        56      50
+        43      37
+*/
