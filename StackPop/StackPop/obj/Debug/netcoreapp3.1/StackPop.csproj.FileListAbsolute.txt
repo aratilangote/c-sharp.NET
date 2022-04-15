@@ -1,0 +1,13 @@
+C:\Users\shree\source\repos\CollectionClasses\StackPop\StackPop\bin\Debug\netcoreapp3.1\StackPop.exe
+C:\Users\shree\source\repos\CollectionClasses\StackPop\StackPop\bin\Debug\netcoreapp3.1\StackPop.deps.json
+C:\Users\shree\source\repos\CollectionClasses\StackPop\StackPop\bin\Debug\netcoreapp3.1\StackPop.runtimeconfig.json
+C:\Users\shree\source\repos\CollectionClasses\StackPop\StackPop\bin\Debug\netcoreapp3.1\StackPop.runtimeconfig.dev.json
+C:\Users\shree\source\repos\CollectionClasses\StackPop\StackPop\bin\Debug\netcoreapp3.1\StackPop.dll
+C:\Users\shree\source\repos\CollectionClasses\StackPop\StackPop\bin\Debug\netcoreapp3.1\StackPop.pdb
+C:\Users\shree\source\repos\CollectionClasses\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shree\source\repos\CollectionClasses\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.AssemblyInfoInputs.cache
+C:\Users\shree\source\repos\CollectionClasses\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.AssemblyInfo.cs
+C:\Users\shree\source\repos\CollectionClasses\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.csproj.CoreCompileInputs.cache
+C:\Users\shree\source\repos\CollectionClasses\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.dll
+C:\Users\shree\source\repos\CollectionClasses\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.pdb
+C:\Users\shree\source\repos\CollectionClasses\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.genruntimeconfig.cache
