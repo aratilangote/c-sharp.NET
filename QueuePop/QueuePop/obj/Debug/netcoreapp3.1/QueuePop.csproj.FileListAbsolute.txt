@@ -1,0 +1,13 @@
+C:\Users\shree\source\repos\CollectionClasses\QueuePop\QueuePop\bin\Debug\netcoreapp3.1\QueuePop.exe
+C:\Users\shree\source\repos\CollectionClasses\QueuePop\QueuePop\bin\Debug\netcoreapp3.1\QueuePop.deps.json
+C:\Users\shree\source\repos\CollectionClasses\QueuePop\QueuePop\bin\Debug\netcoreapp3.1\QueuePop.runtimeconfig.json
+C:\Users\shree\source\repos\CollectionClasses\QueuePop\QueuePop\bin\Debug\netcoreapp3.1\QueuePop.runtimeconfig.dev.json
+C:\Users\shree\source\repos\CollectionClasses\QueuePop\QueuePop\bin\Debug\netcoreapp3.1\QueuePop.dll
+C:\Users\shree\source\repos\CollectionClasses\QueuePop\QueuePop\bin\Debug\netcoreapp3.1\QueuePop.pdb
+C:\Users\shree\source\repos\CollectionClasses\QueuePop\QueuePop\obj\Debug\netcoreapp3.1\QueuePop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shree\source\repos\CollectionClasses\QueuePop\QueuePop\obj\Debug\netcoreapp3.1\QueuePop.AssemblyInfoInputs.cache
+C:\Users\shree\source\repos\CollectionClasses\QueuePop\QueuePop\obj\Debug\netcoreapp3.1\QueuePop.AssemblyInfo.cs
+C:\Users\shree\source\repos\CollectionClasses\QueuePop\QueuePop\obj\Debug\netcoreapp3.1\QueuePop.csproj.CoreCompileInputs.cache
+C:\Users\shree\source\repos\CollectionClasses\QueuePop\QueuePop\obj\Debug\netcoreapp3.1\QueuePop.dll
+C:\Users\shree\source\repos\CollectionClasses\QueuePop\QueuePop\obj\Debug\netcoreapp3.1\QueuePop.pdb
+C:\Users\shree\source\repos\CollectionClasses\QueuePop\QueuePop\obj\Debug\netcoreapp3.1\QueuePop.genruntimeconfig.cache
