@@ -1,0 +1,28 @@
+using System;
+
+namespace staticClass
+{
+    public static class Example
+    {
+        public static float PI = 3.14f;
+        public static int cube(int n)
+        {
+            return n * n * n;
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Value of PI is: "+Example.PI);
+            Console.WriteLine("Cube of 3 is: " + Example.cube(3));
+        }
+    }
+}
+
+
+/*
+Value of PI is: 3.14
+Cube of 3 is: 27
+
+*/
