@@ -1,8 +1,6 @@
 using System;
 
-namespace Exp1
-{
-    class Program
+ class Program
     {
         static void Main(string[] args)
         {
@@ -20,4 +18,11 @@ namespace Exp1
             Console.ReadLine();
         }
     }
-}
+
+/*
+Enter first number:
+45
+Enter second number:
+85
+Addition of two numbers is: 130
+*/
