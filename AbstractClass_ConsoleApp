@@ -1,0 +1,36 @@
+using System;
+
+namespace AbstractClass
+{
+    public abstract class shape
+    {
+        public abstract void draw();
+    }
+    public class Rectangle : shape
+    {
+        public override void draw()
+        {
+            Console.WriteLine("This is rectnagle shape...");
+            Console.WriteLine("drawing rectangle...");
+        }
+    }
+    public class Circle : shape
+    {
+        public override void draw()
+        {
+            Console.WriteLine("This is circular shape...");
+            Console.WriteLine("drawring circle....");
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            shape s;
+            s = new Rectangle();
+            s.draw();
+            s = new Circle();
+            s.draw();
+        }
+    }
+}
