@@ -1,0 +1,32 @@
+using System;
+
+namespace class2
+{
+    class car
+    {
+        public int i;
+        public string n;
+
+        public void insert (int id, string name)
+        {
+            i = id;
+            n = name;
+        }
+        public void display()
+        {
+            Console.WriteLine(i+" "+n);
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            car c1 = new car();
+            car c2 = new car();
+            c1.insert(101, "Arati");
+            c2.insert(102, "Adarsh");
+            c1.display();
+            c2.display();
+        }
+    }
+}
