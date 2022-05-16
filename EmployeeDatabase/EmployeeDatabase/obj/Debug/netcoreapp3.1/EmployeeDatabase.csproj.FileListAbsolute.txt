@@ -1,0 +1,16 @@
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.csproj.AssemblyReference.cache
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.Form1.resources
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.csproj.GenerateResource.cache
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.AssemblyInfoInputs.cache
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.AssemblyInfo.cs
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.csproj.CoreCompileInputs.cache
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\bin\Debug\netcoreapp3.1\EmployeeDatabase.exe
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\bin\Debug\netcoreapp3.1\EmployeeDatabase.deps.json
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\bin\Debug\netcoreapp3.1\EmployeeDatabase.runtimeconfig.json
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\bin\Debug\netcoreapp3.1\EmployeeDatabase.runtimeconfig.dev.json
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\bin\Debug\netcoreapp3.1\EmployeeDatabase.dll
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\bin\Debug\netcoreapp3.1\EmployeeDatabase.pdb
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.dll
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.pdb
+C:\Users\shree\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.genruntimeconfig.cache
